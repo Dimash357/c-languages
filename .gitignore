@@ -1,5 +1,8 @@
 # JetBrains / CLion
 .idea/
+.vscode/
+.vs/
+.x64/
 cmake-build-debug/
 
 # Build files
