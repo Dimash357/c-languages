@@ -1,0 +1,15 @@
+# JetBrains / CLion
+.idea/
+cmake-build-debug/
+
+# Build files
+*.o
+*.obj
+*.exe
+*.out
+*.log
+
+# Archives
+*.zip
+*.tar
+*.gz
